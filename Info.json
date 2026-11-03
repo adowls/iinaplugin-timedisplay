@@ -2,6 +2,8 @@
   "name": "Time Display",
   "identifier": "com.adowls.iinaplugin.timedisplay",
   "version": "1.1.0",
+  "ghRepo": "adowls/iinaplugin.timedisplay",
+  "ghVersion": 11,
   "description": "plugin for IINA, Displays total duration, played/remaining time (top-left), system time (top-center), and video title (top-right).",
   "author": {
     "name": "adowls",
